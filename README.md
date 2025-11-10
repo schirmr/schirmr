@@ -1,7 +1,7 @@
 <h2>Hello 👋</h2>
 
 <p style="text-align: justify;">Olá, me chamo Gabriel Lorenson Schirmer. </br>
-Sou formado em Técnico em Informática pelo IFFAR. </br>
+Sou Técnico em Informática pelo IFFAR - Campus Santo Augusto. </br>
 Atualmente cursando Engenharia de Computação pela UFSM.</p>
 </br>
 
